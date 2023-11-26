@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
   m_Name: PlayFabEditorPrefsSO
   m_EditorClassIdentifier: 
-  DevAccountEmail: Amozik@rambler.ru
-  DevAccountToken: 36a6iq7exw7kfxb8fbs9ucdg74oykooqt8jpkykb63xfsfidex43mxwobgkujk15pp5cqj6ygi8zkdxx14f3zaypugd3c3thmrpqupi34oze6y6uekgn1rfcww5z7wgh4gj7terc8ri45izrjdykag5g4zynfhzcfyj74ymdizd5q3geys8oomx9z8u73j3ndfhey9h5
-  SelectedStudio: Pigeon Tea
+  DevAccountEmail: reginashaykh@gmail.com
+  DevAccountToken: be1sfm3kexq41fgtcwrgig9uom6bg38p958canteja7rigrtmxnbqss9hcd9aid88sx6tmxtgg4no5fdxrdpg9e7p7emw81aywx1uxkag87epgiqkff6gsa6sy95hdti337grya4jzy5ezxw63fwjfgw3j7pgqgozzx7mnf86knmwe3ssfeb1u6g45pjcni54cg33pxg
+  SelectedStudio: NewOnlineStudio
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
-  LocalCloudScriptPath: 
+  LocalCloudScriptPath: C:/Unity/Study_Projects/OnlineGame/Assets/PlayFabEditorExtensions/Editor/Resources/.CloudScript.js
   PanelIsShown: 0
-  curMainMenuIdx: 1
+  curMainMenuIdx: 0
   curSubMenuIdx: 0
